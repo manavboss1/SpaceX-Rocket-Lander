@@ -1,7 +1,7 @@
 # SpaceX-Rocket-Lander
 # PPO
 # Overview
-This is the code for this video on Youtube by Siraj Raval. Download OpenAI's Gym and Tensorflow as dependencies.
+This is the code for this Project. Download OpenAI's Gym and Tensorflow as dependencies.
 
 PPO implementation for OpenAI gym environment based on Unity ML Agents: https://github.com/Unity-Technologies/ml-agents
 
