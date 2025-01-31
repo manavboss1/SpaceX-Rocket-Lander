@@ -13,3 +13,4 @@ Option to record episodes
 State normalization for given number of frames
 Frame skip
 Faster reward discounting etc.
+Will Soon Add The Simulation Captured Video.....
